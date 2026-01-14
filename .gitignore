@@ -1,0 +1,45 @@
+# Node modules (React dependencies)
+node_modules/
+frontend/node_modules/
+
+# PHP dependencies
+backend/vendor/
+
+# Python virtual environment and dependencies
+python-service/venv/
+python-service/__pycache__/
+*.pyc
+
+# Environment variables (NEVER commit these!)
+.env
+.env.local
+backend/.env
+python-service/.env
+
+# Build folders
+frontend/build/
+frontend/dist/
+backend/build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+error.log
+
+# Database files (local only)
+*.sql.backup
+*.db
+
+# Testing
+coverage/
+
+# Misc
+.cache/
+temp/
