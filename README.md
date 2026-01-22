@@ -20,9 +20,9 @@ Budget Bites is a Progressive Web Application (PWA) designed to help students an
 
 \- \*\*Type:\*\* Final Project for DAW (Desarrollo de Aplicaciones Web)
 
-\- \*\*Academic Year:\*\* 2024-2025
+\- \*\*Academic Year:\*\* 2025-2026
 
-\- \*\*Author:\*\* \[Your Name]
+\- \*\*Author:\*\* \Mohammed Abdelbar
 
 \- \*\*Deadline:\*\* May 1, 2025
 
